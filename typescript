@@ -1,0 +1,168 @@
+Script started on Wed 12 Oct 2016 12:23:29 PM EDT
+]0;wlutt@opsys9-esu-edu:~/OPSYS/Assignment3]7;file://opsys9-esu-edu/home/wlutt/OPSYS/Assignment3[?1034h[wlutt@opsys9-esu-edu Assignment3]$ gedit typescript[6Ptypescript./typescript[6Pscript[4Plscd Assignment3ls[Kcd OPSYSls[Kexit./a.outcat producerconsumer.cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccd Assignment3ls[Kcd OPSYS[5Pdir./a.outgcc producerconsumer.c -lpthread./a.out[Kgcc producerconsumer.c -lpthread./a.out[K[4Pdircd OPSYSls[Kcd Assignment3ls[Kgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pcat producerconsumer.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[K[3Pexit[2Plscd OPSYSls[Kcd Assignment3ls[Kscript./typescript[2Ptypescriptgedit typescript[Kgedit typescript[6Ptypescript./typescript[6Pscript[4Plscd Assignment3ls[Kcd OPSYSls[Kexit./a.outcat producerconsumer.cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  -lpthread -s[1Ptd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CW  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl  -lpthre[1@a[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl  -lpthr[1@e[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -lpth[1@r[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-  -lpt[1@h[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[CW  -lp[1@t[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce  -l[1@p[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr  -[1@l[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cr
+[1@ [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co [1@ [1@r
+]0;wlutt@opsys9-esu-edu:~/OPSYS/Assignment3]7;file://opsys9-esu-edu/home/wlutt/OPSYS/Assignment3[wlutt@opsys9-esu-edu Assignment3]$ cat [K[K[K[Kgcc producerconsumer.c -Wall -Werrorr  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pedit typescript
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[6Ptypescript./typescript[6Pscript[4Plscd Assignment3ls[Kcd OPSYSls[Kexit./a.outcat producerconsumer.cgcc producerconsumer.c -lpthread -sttd=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pcat producerconsumer.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+//references
+//http://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html#BASICS
+//http://cis.poly.edu/cs3224a/Code/ProducerConsumerUsingPthreads.c
+#include <stdio.h>
+#include <pthread.h>
+#include <string.h>
+#define BUFFERSIZE 3
+
+
+//shared resource
+int buffer;
+
+//conditional variables and mutex
+pthread_cond_t condc = PTHREAD_COND_INITIALIZER;
+pthread_cond_t condp = PTHREAD_COND_INITIALIZER;
+pthread_mutex_t mutex = PTHREAD_MUTEX_INITIALIZER;
+
+
+ 
+void *producer();
+void *consumer();
+
+int main(){
+	
+	pthread_t t1, t2, t3,t4,t5,t6,t7;
+
+
+
+	//create threads
+  	pthread_create( &t1, NULL, &producer, NULL);
+	pthread_create( &t2, NULL, &producer, NULL);
+	pthread_create( &t3, NULL, &producer, NULL);
+	pthread_create( &t4, NULL, &producer, NULL);
+  	pthread_create( &t5, NULL, &consumer, NULL);
+	pthread_create( &t6, NULL, &consumer, NULL);
+	pthread_create( &t7, NULL, &consumer, NULL);
+	
+	
+
+	pthread_exit(NULL);
+
+	return 0;
+}
+
+
+void *producer(){
+	int i;
+	int j = 0;
+
+
+while(j < 3){
+	
+	//locks buffer 
+	pthread_mutex_lock(&mutex);
+	
+	
+	while(buffer == BUFFERSIZE){
+		pthread_cond_wait(&condp, &mutex);
+	}
+
+
+
+	buffer++;
+	printf("Buffer: ");
+	//prints x's in buffer
+	for( i = 0; i < buffer; i++){
+		printf("x");
+	}
+		printf(" \tproducer added 1 to buffer\n");
+
+	j++;
+	
+		
+	pthread_cond_signal(&condc);
+	pthread_mutex_unlock(&mutex);		
+	
+
+	
+
+	}
+
+	pthread_exit(NULL);	
+}
+
+void *consumer(){
+	int i;
+	int j = 0;
+
+while(j < 3){
+
+
+	pthread_mutex_lock(&mutex);
+	
+	while(buffer == 0){
+		pthread_cond_wait(&condc, &mutex);
+	}
+
+
+
+	buffer--;
+	printf("Buffer: ");
+	for( i = 0; i < buffer; i++){
+		printf("x");
+	}
+		printf(" \tconsumer subtracted 1 from buffer\n");
+	
+	
+	
+	
+	j++;
+
+		
+	pthread_cond_signal(&condp);
+	pthread_mutex_unlock(&mutex);
+	
+	
+	
+
+	}
+	pthread_exit(NULL);
+	
+}
+]0;wlutt@opsys9-esu-edu:~/OPSYS/Assignment3]7;file://opsys9-esu-edu/home/wlutt/OPSYS/Assignment3[wlutt@opsys9-esu-edu Assignment3]$ cat producerconsumer.cgcc producerconsumer.c -Wall -Werrorr  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[19Pedit typescript
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccc producerconsumer.c -Wall -Werrorr  -lpthread -std=c99[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[13Pcat producerconsumer.c
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K./a.out
+Buffer: x 	producer added 1 to buffer
+Buffer: xx 	producer added 1 to buffer
+Buffer: xxx 	producer added 1 to buffer
+Buffer: xx 	consumer subtracted 1 from buffer
+Buffer: x 	consumer subtracted 1 from buffer
+Buffer:  	consumer subtracted 1 from buffer
+Buffer: x 	producer added 1 to buffer
+Buffer:  	consumer subtracted 1 from buffer
+Buffer: x 	producer added 1 to buffer
+Buffer:  	consumer subtracted 1 from buffer
+Buffer: x 	producer added 1 to buffer
+Buffer: xx 	producer added 1 to buffer
+Buffer: xxx 	producer added 1 to buffer
+Buffer: xx 	consumer subtracted 1 from buffer
+Buffer: x 	consumer subtracted 1 from buffer
+Buffer: xx 	producer added 1 to buffer
+Buffer: xxx 	producer added 1 to buffer
+Buffer: xx 	consumer subtracted 1 from buffer
+Buffer: x 	consumer subtracted 1 from buffer
+Buffer: xx 	producer added 1 to buffer
+Buffer: xxx 	producer added 1 to buffer
+]0;wlutt@opsys9-esu-edu:~/OPSYS/Assignment3]7;file://opsys9-esu-edu/home/wlutt/OPSYS/Assignment3[wlutt@opsys9-esu-edu Assignment3]$ exit
+exit
+
+Script done on Wed 12 Oct 2016 12:24:47 PM EDT
